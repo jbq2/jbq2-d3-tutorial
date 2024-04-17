@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jbq2-d3-tutorial/static/css/main.2a88d630.css",
+    "main.js": "/jbq2-d3-tutorial/static/js/main.bca573a3.js",
+    "static/js/453.fe334d90.chunk.js": "/jbq2-d3-tutorial/static/js/453.fe334d90.chunk.js",
+    "static/media/tips.csv": "/jbq2-d3-tutorial/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/jbq2-d3-tutorial/index.html",
+    "main.2a88d630.css.map": "/jbq2-d3-tutorial/static/css/main.2a88d630.css.map",
+    "main.bca573a3.js.map": "/jbq2-d3-tutorial/static/js/main.bca573a3.js.map",
+    "453.fe334d90.chunk.js.map": "/jbq2-d3-tutorial/static/js/453.fe334d90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a88d630.css",
+    "static/js/main.bca573a3.js"
+  ]
+}
